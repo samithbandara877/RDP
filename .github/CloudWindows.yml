@@ -1,4 +1,4 @@
-name: Ethzio-PC
+name: CloudWindows
 
 on: workflow_dispatch
 
